@@ -6,7 +6,6 @@ Cargo.lock
 # Cloudflare Workers / Wrangler
 .wrangler/
 wrangler.toml.bak
-build/
 dist/
 worker/
 
