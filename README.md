@@ -7,7 +7,7 @@
 ## Features
 
 - **⚡ High Performance**: Built with Rust for maximum speed
-- **🪶 Lightweight**: Compiled to WebAssembly for minimal size
+- **⚖️ Lightweight**: Compiled to WebAssembly for minimal size
 - **🌐 CORS Ready**: Configurable cross-origin request support
 - **📍 Geolocation**: Extracts location data from Cloudflare headers
 - **🔒 Secure**: Production-ready with configurable CORS origins
